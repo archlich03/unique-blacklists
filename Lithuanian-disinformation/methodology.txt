@@ -1,0 +1,15 @@
+We open a domain in question, browse through 5-10 articles visible on the landing page.
+We consider the domain to house disinformation if at least half of the analysed posts contains at least 3 of these criteria:
+    • Unidentifiable source
+        ◦ no source specified
+        ◦ the source of information is unrealiable or untrustworthy
+        ◦ cited sources are exceedingly old
+    • Content:
+        ◦ includes suspicious photos, quotes, interviews, posts
+        ◦ has a purposefully shocking or emotional headline
+        ◦ doesn’t support the headline
+        ◦ includes malicious agenda
+        ◦ is manipulative in nature
+    • Circumstances
+        ◦ facts have missing context
+        ◦ repetitive content seen in similar media
