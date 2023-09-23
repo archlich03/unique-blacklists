@@ -13,3 +13,5 @@ We consider the domain to house disinformation if at least half of the analysed 
     • Circumstances
         ◦ facts have missing context
         ◦ repetitive content seen in similar media
+
+In case of a false positive, please open an issue.
